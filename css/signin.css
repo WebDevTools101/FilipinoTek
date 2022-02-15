@@ -1,0 +1,15 @@
+body{
+	background-image: url(../../assets/images/backgrounds/auth.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: inherit;}
+.card{
+	background-color: transparent;
+	border:none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translateX(-50%) translateY(-50%);
+	-webkit-transform: translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+}   
