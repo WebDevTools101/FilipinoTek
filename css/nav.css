@@ -1,15 +1,15 @@
 @font-face{
   font-family: 'archi';
-  src: url(../../assets/fonts/ad/Architects-Daughter.ttf);}
+  src: url(https://webdevtools101.github.io/FilipinoTek/fonts/ad/Architects-Daughter.ttf);}
 @font-face{
   font-family: 'new-cycle-reg';
-  src: url(../../assets/fonts/new-cycle/NewsCycle-Regular.ttf);}
+  src: url(https://webdevtools101.github.io/FilipinoTek/fonts/new-cycle/NewsCycle-Regular.ttf);}
 @font-face{
   font-family: 'new-cycle-bold';
-  src: url(../../assets/fonts/new-cycle/NewsCycle-Bold.ttf);}
+  src: url(https://webdevtools101.github.io/FilipinoTek/fonts/new-cycle/NewsCycle-Bold.ttf);}
 @font-face{
   font-family: 'lato-reg';
-  src: url(../../assets/fonts/lato/Lato-Regular.ttf);}
+  src: url(https://webdevtools101.github.io/FilipinoTek/fonts/lato/Lato-Regular.ttf);}
 .bg-trans{
   background: none!important;}
 .w-12{
