@@ -1,5 +1,5 @@
 body{
-	background-image: url(https://webdevtools101.github.io/FilipinoTek/images/backgrounds/auth.jpg);
+	background-image: url('https://webdevtools101.github.io/FilipinoTek/images/backgrounds/auth.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: inherit;}
