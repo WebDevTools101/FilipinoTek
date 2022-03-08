@@ -333,3 +333,21 @@
   .change-ui-7 .paalala-bg{background:#FFE2E4}
   .change-ui-7 .title-card{color: #80161C}
   .change-ui-7 .nav-oval, .change-ui-7 .btn-color {background: #B51E2D}
+
+
+
+
+.body-8{
+  background: url(https://webdevtools101.github.io/FilipinoTek/images/backgrounds/g6.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;}
+  /*SIDEBAR */
+  .change-ui-8 .bg-wrapper{background: #FF7370}
+  .change-ui-8 .profile-img, .change-ui-8 .logout{border-color: #80161C!important}
+  .change-ui-8 .navigation-menu .active{background: #FF7370}
+  .change-ui-8 li a:hover{background: #FF7370}
+  /*Dashboard*/
+  .change-ui-8 .gawain-thumb{border-color: #80161C!important}
+  .change-ui-8 .paalala-bg{background:#FFE2E4}
+  .change-ui-8 .title-card{color: #80161C}
+  .change-ui-8 .nav-oval, .change-ui-8 .btn-color {background: #B51E2D}
