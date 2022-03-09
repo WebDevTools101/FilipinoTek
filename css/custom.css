@@ -336,18 +336,23 @@
 
 
 
-
-.body-8{
+.body-color-8,.body-color-9,.body-color-10,.body-color-11{
+  background-image: linear-gradient(to right top, 
+    #f26d50, #f4785d, #f58369, 
+    #f68e76, #f79883, #f8a18e, 
+    #f9aa98, #f9b3a3, #fabcaf, 
+    #fbc6bb, #fccfc6, #fcd9d2);}
+.body-8,.body-9,.body-10,.body-11{
   background: url(https://webdevtools101.github.io/FilipinoTek/images/backgrounds/g6.png);  
   background-size: 100% 100%;
   background-repeat: no-repeat;}
   /*SIDEBAR */
-  .change-ui-8 .bg-wrapper{background: #FF7370}
-  .change-ui-8 .profile-img, .change-ui-8 .logout{border-color: #80161C!important}
-  .change-ui-8 .navigation-menu .active{background: #FF7370}
-  .change-ui-8 li a:hover{background: #FF7370}
+  .change-ui-8 .bg-wrapper, .change-ui-9 .bg-wrapper, .change-ui-9 .bg-wrapper, .change-ui-11 .bg-wrapper{background: #FF7370}
+  .change-ui-8 .profile-img, .change-ui-8 .logout, .change-ui-9 .profile-img, .change-ui-9 .logout, .change-ui-10 .profile-img, .change-ui-10 .logout, .change-ui-11 .profile-img, .change-ui-11 .logout{border-color: #80161C!important}
+  .change-ui-8 .navigation-menu .active, .change-ui-9 .navigation-menu .active, .change-ui-10 .navigation-menu .active, .change-ui-11 .navigation-menu .active{background: #FF7370}
+  .change-ui-8 li a:hover, .change-ui-9 li a:hover, .change-ui-9 li a:hover, .change-ui-9 li a:hover{background: #FF7370}
   /*Dashboard*/
-  .change-ui-8 .gawain-thumb{border-color: #80161C!important}
-  .change-ui-8 .paalala-bg{background:#FFE2E4}
-  .change-ui-8 .title-card{color: #80161C}
-  .change-ui-8 .nav-oval, .change-ui-8 .btn-color {background: #B51E2D}
+  .change-ui-8 .gawain-thumb,.change-ui-9 .gawain-thumb,.change-ui-10 .gawain-thumb,.change-ui-11 .gawain-thumb{border-color: #80161C!important}
+  .change-ui-8 .paalala-bg,.change-ui-9 .paalala-bg,.change-ui-10 .paalala-bg,.change-ui-11 .paalala-bg{background:#FFE2E4}
+  .change-ui-8 .title-card,.change-ui-9 .title-card,.change-ui-10 .title-card,.change-ui-11 .title-card{color: #80161C}
+  .change-ui-8 .nav-oval, .change-ui-8 .btn-color,.change-ui-9 .nav-oval, .change-ui-9 .btn-color,.change-ui-10 .nav-oval, .change-ui-10 .btn-color,.change-ui-11 .nav-oval, .change-ui-11 .btn-color {background: #B51E2D}
